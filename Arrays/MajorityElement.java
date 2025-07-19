@@ -25,7 +25,7 @@ public class MajorityElement {
             }
         }
 
-        return -1; // If no majority element found
+        return -1;
     }
 
     // Main method to test the logic
